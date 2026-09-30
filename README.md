@@ -4,6 +4,12 @@
 
 O Jujutsu Academy é um jogo de terminal que combina as funcionalidades e atividade de RPGs, Jujutsu Kaisen, Emojis e If/Elses simples para criar uma jornada curta mas divertida.
 
+***Última versão: jujutsu-academy-latest.py***
+- Uma versão sem bugs, optimizada e com gameplay melhor
+
+***Primeira versão: jujutsu-academy-old.py***
+- A primeira e mais antiga versão do jogo, não recomendável (possui bugs e uma gameplay pior)
+
 # ✍ FUNCIONALIDADES: 
 
 ***1: Treinamentos & Missões***
