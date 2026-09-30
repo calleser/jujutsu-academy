@@ -4,10 +4,10 @@
 
 O Jujutsu Academy é um jogo de terminal que combina as funcionalidades e atividade de RPGs, Jujutsu Kaisen, Emojis e If/Elses simples para criar uma jornada curta mas divertida.
 
-***Última versão: jujutsu-academy-latest.py***
-- Uma versão sem bugs, optimizada e com gameplay melhor
+***Última versão:*** $\color{green}{\textsf{jujutsu-academy-latest.py}}$
+- Uma versão sem bugs, otimizada e com gameplay melhor
 
-***Primeira versão: jujutsu-academy-old.py***
+***Primeira versão:*** $\color{red}{\textsf{jujutsu-academy-old.py}}$
 - A primeira e mais antiga versão do jogo, não recomendável (possui bugs e uma gameplay pior)
 
 # ✍ FUNCIONALIDADES: 
@@ -19,6 +19,6 @@ O Jujutsu Academy é um jogo de terminal que combina as funcionalidades e ativid
 - Ao treinar e completar missões, você receberá experiência e dinheiro, respectivamente. Você pode usar esses valores para comprar novas técnicas, ou então gastar o seu dinheiro em armas amaldiçoadas que farão seu personagem se tornar ainda mais forte!
 
 ***3: Status e RankUp***
-- Ao apertar o botão de status (geralmente 5 nos menus iniciais), as estatísticas do seu personagem será revelada, mostrando sua quantia de Experiência, Dinheiro, Maestria, Técnicas Obtidas e Armas no Arsenal numa lista fácil de ler, ajudando-o a planejar melhor.
+- Ao apertar o botão de status (geralmente 5 nos menus iniciais), as estatísticas do seu personagem serão reveladas, mostrando sua quantia de Experiência, Dinheiro, Maestria, Técnicas Obtidas e Armas no Arsenal numa lista fácil de ler, ajudando-o a planejar melhor.
 - Para subir de Grau é bem simples: apenas maximize tudo do seu menu atual. Começando no menu de Grau 4 (nomeado como "O Começo"), você simplesmente deverá treinar e participar em missões até poder aprender todas as técnicas e ter comprado todas as armas.
 
